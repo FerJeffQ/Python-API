@@ -4,3 +4,4 @@ alembic==1.13.2
 SQLAlchemy==2.0.32
 uvicorn==0.30.5
 gunicorn==23.0.0
+pydantic-settings==2.4.0
